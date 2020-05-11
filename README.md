@@ -1,16 +1,12 @@
-# Aplicativos desenvolvidos no Curso de Flutter na Udemy.com
+# Contador de Pessoas
+
+Aplicativo para contar a quatidade de pessoas que entram em um restaurante.
 
 ## Getting Started
 
-Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](https://flutter.io/) on-line.
+Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](https://flutter.io/) on-line .
 
-### Apps desenvolvidas
+## Screenshots
 
-1. - :family: [Contador de pessoas]()
-2. - :anchor: [Calculo IMC]()
-3. - :currency_exchange: [Conversor de moedas]()
-4. - :heavy_check_mark: [Lista de Tarefas]()
-5. - :heart_eyes: Buscador de Gifs(em breve) 
-6. - :abc: Agenda de Contatos (em breve)
-7. - :speech_balloon: Chat Online (em breve) 
-8. - :shopping: Loja Virtual (em desenvolvimento)
+! [image] (https://www.havan.com.br/media/catalog/product/cache/55f334c6f9412d6b39cfe195ce4e3943/c/e/celular-iphone-8-64gb-single-chip-tela-4-7-apple_194564_1.jpg)
+

@@ -1,4 +1,0 @@
-#Mon May 11 05:15:43 BRT 2020
-base.0=/Users/pedrofaria/Documents/Projetos - Flutter/aplicativos_curso_flutter/contador_de_pessoas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
