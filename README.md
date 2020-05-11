@@ -2,9 +2,7 @@
 
 ## Getting Started
 
-Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](https://flutter.io/) on-line .
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](https://flutter.io/) on-line.
 
 ### Apps desenvolvidas
 
