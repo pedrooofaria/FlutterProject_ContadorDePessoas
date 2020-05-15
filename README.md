@@ -8,5 +8,8 @@ Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](h
 
 ## Screenshots
 
-! [image] (https://www.havan.com.br/media/catalog/product/cache/55f334c6f9412d6b39cfe195ce4e3943/c/e/celular-iphone-8-64gb-single-chip-tela-4-7-apple_194564_1.jpg)
+ | Tela 1 | Tela 2 |
+ | --------|--------|
+ |<img src="screenshot/ContadorDePessoas_Tela1.png" width="320">|<img src="screenshot/ContadorDePessoas_Tela2.png" width="320">|
+
 
